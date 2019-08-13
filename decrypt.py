@@ -16,4 +16,4 @@ for i in range(0,26):
 
 	print(2)
 
-	print(3)
+	print(1)
