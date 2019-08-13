@@ -15,3 +15,5 @@ for i in range(0,26):
 	ciphertext = sentence
 
 	print(2)
+
+	print(3)
